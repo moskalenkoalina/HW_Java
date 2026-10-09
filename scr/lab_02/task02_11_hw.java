@@ -1,7 +1,7 @@
-package lab_2;
+package lab_02;
 import java.util.Arrays;
 
-public class task2_11_hw {
+public class task02_11_hw {
     private static boolean hasSameDigits(int orig1, int orig2, int target) {
         String fangs = String.valueOf(orig1) + String.valueOf(orig2);
         String number = String.valueOf(target);

@@ -1,7 +1,7 @@
-package lab_2;
+package lab_02;
 import java.util.Scanner;
 
-public class task2_2 {
+public class task02_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -1,6 +1,6 @@
-package lab_2;
+package lab_02;
 
-public class task2_1 {
+public class task02_1 {
     public static void main(String[] args) {
 
         int a = 0x7FFF_FFFF;

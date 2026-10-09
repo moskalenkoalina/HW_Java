@@ -1,7 +1,7 @@
-package lab_2;
+package lab_02;
 import java.util.Scanner;
 
-public class task2_4 {
+public class task02_4 {
     public static long factor(int n) {
         long result = 1;
         for (int i = 1; i <= n; i++) {

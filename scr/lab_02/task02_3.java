@@ -1,7 +1,7 @@
-package lab_2;
+package lab_02;
 import java.util.Scanner;
 
-public class task2_3 {
+public class task02_3 {
 
     public static void permute(int n, String current) {
         if (current.length() == n) {
