@@ -1,4 +1,4 @@
-package lab_4;
+package lab_4_HW;
 
 public class Student {
     private int id;
